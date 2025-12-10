@@ -1,1 +1,3 @@
-SigmaGoon
+SigmaGoon  (This is to mess with you)
+
+I'm adding this so if you tried to push your code it will create a merge error. Valuble Lesson, always pull from the branches that your on when you first boot up your local repo
