@@ -12,5 +12,6 @@ public class hello{
         for (int i = 0; i < Integer.parseInt(args[1]); i++){
             System.out.print("You also said to make this text appear this many times");
         }
+        System.out.print('\n' + "Chicken is my facorite food.");
     }
 }
